@@ -1,1 +1,2 @@
 # WIZA.AI
+Sudoku Puzzle
